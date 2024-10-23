@@ -1,0 +1,22 @@
+[
+    {
+        "task": "remove a task",
+        "done": true
+    },
+    {
+        "task": "Move python projects to new git repo",
+        "done": false
+    },
+    {
+        "task": "Add timestamps to todo list",
+        "done": false
+    },
+    {
+        "task": "link git repo to website",
+        "done": false
+    },
+    {
+        "task": "gui todo",
+        "done": false
+    }
+]

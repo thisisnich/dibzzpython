@@ -1,22 +1,38 @@
 [
     {
-        "task": "remove a task",
-        "done": true
-    },
-    {
         "task": "Move python projects to new git repo",
-        "done": false
+        "done": true,
+        "created": "2024-10-21 09:00:00",
+        "completed": "2024-10-21 09:45:00"
     },
     {
         "task": "Add timestamps to todo list",
-        "done": false
+        "done": false,
+        "created": "2024-10-22 14:00:00",
+        "completed": null
     },
     {
         "task": "link git repo to website",
-        "done": false
+        "done": true,
+        "created": "2024-10-22 15:00:00",
+        "completed": "2024-10-22 15:30:00"
     },
     {
         "task": "gui todo",
-        "done": false
+        "done": false,
+        "created": "2024-10-23 10:00:00",
+        "completed": null
+    },
+    {
+        "task": "Finish portfolio",
+        "done": false,
+        "created": "2024-10-23 12:52:43",
+        "completed": null
+    },
+    {
+        "task": "submit lab 4",
+        "done": false,
+        "created": "2024-10-23 12:52:59",
+        "completed": null
     }
 ]

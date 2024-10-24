@@ -1,0 +1,101 @@
+[
+    {
+        "task": "Add Task Priority Option",
+        "done": true,
+        "created": "2024-10-24 11:03:18",
+        "completed": "2024-10-24 15:57:05",
+        "priority": "High"
+    },
+    {
+        "task": "add filtering option",
+        "done": true,
+        "created": "2024-10-24 15:56:21",
+        "completed": "2024-10-24 15:57:05",
+        "priority": "High"
+    },
+    {
+        "task": "Search Functionality",
+        "done": true,
+        "created": "2024-10-24 11:03:28",
+        "completed": "2024-10-24 17:11:17",
+        "priority": "Medium"
+    },
+    {
+        "task": "task categories",
+        "done": false,
+        "created": "2024-10-24 11:03:42",
+        "completed": null,
+        "priority": "Medium"
+    },
+    {
+        "task": "Add Completion Date",
+        "done": true,
+        "created": "2024-10-24 11:03:06",
+        "completed": "2024-10-24 15:57:05",
+        "priority": "Low"
+    },
+    {
+        "task": "Editing tasks",
+        "done": true,
+        "created": "2024-10-24 11:03:33",
+        "completed": "2024-10-24 17:41:48",
+        "priority": "Low"
+    },
+    {
+        "task": "Save state",
+        "done": false,
+        "created": "2024-10-24 11:03:54",
+        "completed": null,
+        "priority": "Low"
+    },
+    {
+        "task": "Dark light toggle (maybe in settings)",
+        "done": false,
+        "created": "2024-10-24 11:04:10",
+        "completed": null,
+        "priority": "Low"
+    },
+    {
+        "task": "comments/notes",
+        "done": false,
+        "created": "2024-10-24 11:04:16",
+        "completed": null,
+        "priority": "Low"
+    },
+    {
+        "task": "sub tasks",
+        "done": false,
+        "created": "2024-10-24 11:04:19",
+        "completed": null,
+        "priority": "Low"
+    },
+    {
+        "task": "progress tracking",
+        "done": false,
+        "created": "2024-10-24 11:04:38",
+        "completed": null,
+        "priority": "Low"
+    },
+    {
+        "task": "export/import button",
+        "done": false,
+        "created": "2024-10-24 11:04:44",
+        "completed": null,
+        "priority": "Low"
+    },
+    {
+        "task": "mark task as not done",
+        "done": true,
+        "created": "2024-10-24 17:23:00",
+        "completed": "2024-10-24 17:23:04",
+        "priority": "Medium"
+    },
+    {
+        "task": "Move edit to front",
+        "done": true,
+        "created": "2024-10-24 17:31:45",
+        "completed": "2024-10-24 17:47:52",
+        "priority": "High",
+        "tasks": "Fix editing"
+    }
+]

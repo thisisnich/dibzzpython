@@ -1,0 +1,13 @@
+{
+    "priority": "Medium",
+    "category": "toDoApp",
+    "show_category_colors": true,
+    "sorting_preference": "Creation Date",
+    "filter_value": "Active",
+    "window_size": {
+        "width": 200,
+        "height": 200
+    },
+    "appearance_mode": "Dark",
+    "color_theme": "dark-blue"
+}

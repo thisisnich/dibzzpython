@@ -1,12 +1,12 @@
 {
-    "priority": "Medium",
-    "category": "toDoApp",
+    "priority": "High",
+    "category": "IHT",
     "show_category_colors": true,
-    "sorting_preference": "Creation Date",
+    "sorting_preference": "Category",
     "filter_value": "Active",
     "window_size": {
-        "width": 200,
-        "height": 200
+        "width": 1000,
+        "height": 750
     },
     "appearance_mode": "Dark",
     "color_theme": "dark-blue"

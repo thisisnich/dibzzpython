@@ -64,7 +64,7 @@ class ToDoApp(ctk.CTk):
         self.priority_menu = ctk.CTkOptionMenu(self.task_frame, variable=self.priority_var, values=["High", "Medium", "Low"], width=150, command=self.save_config)
         self.priority_menu.pack(side="left", padx=10)
         self.category_var = ctk.StringVar(value=self.default_category)
-        # print(self.category_var.get())
+        # print(self.category_var.get()) 
         self.category_menu = ctk.CTkOptionMenu(self.task_frame, variable=self.category_var,values=list(self.categories.keys()), command=self.save_config)
         self.category_menu.pack(side="left", padx=10)
         self.category_button = ctk.CTkButton(self.task_frame, text="Add Category", command=self.add_category)

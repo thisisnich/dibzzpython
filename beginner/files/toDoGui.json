@@ -114,34 +114,50 @@
     },
     {
         "task": "eat lunch",
-        "done": false,
+        "done": true,
         "created": "2024-10-26 13:39:47",
-        "completed": null,
+        "completed": "2025-05-08 11:43:41",
         "priority": "Medium",
         "category": "General"
     },
     {
         "task": "Reviews",
-        "done": false,
+        "done": true,
         "created": "2024-10-27 08:39:37",
-        "completed": null,
+        "completed": "2025-05-08 11:43:46",
         "priority": "Medium",
         "category": "IHT"
     },
     {
         "task": "MD files for all revies",
-        "done": false,
+        "done": true,
         "created": "2024-10-27 08:39:48",
-        "completed": null,
+        "completed": "2025-05-08 11:43:49",
         "priority": "Medium",
         "category": "IHT"
     },
     {
         "task": "component to display reveiws",
-        "done": false,
+        "done": true,
         "created": "2024-10-27 08:40:00",
-        "completed": null,
+        "completed": "2025-05-08 11:43:52",
         "priority": "High",
         "category": "IHT"
+    },
+    {
+        "task": "Demo Edit Tasks",
+        "done": true,
+        "created": "2025-05-08 11:44:21",
+        "completed": "2025-05-08 11:48:46",
+        "priority": "Low",
+        "category": "Work"
+    },
+    {
+        "task": "Its red",
+        "done": false,
+        "created": "2025-05-08 11:54:19",
+        "completed": null,
+        "priority": "High",
+        "category": "Demo Colours"
     }
 ]
